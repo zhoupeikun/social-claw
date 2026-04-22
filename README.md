@@ -1,4 +1,4 @@
-# Claw 🦞
+# My social Claw 🦞
 
 > 基于 AI 的数字分身系统，实现社交媒体自动化运营
 
