@@ -1,0 +1,9 @@
+{
+  "deepseek_api_key": "your-deepseek-api-key-here",
+  "jike_username": "your-jike-username",
+  "jike_password": "",
+  "log_level": "INFO",
+  "headless": false,
+  "screenshot_dir": "./screenshots",
+  "token_file": "./jike_tokens.json"
+}

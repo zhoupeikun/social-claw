@@ -1,0 +1,58 @@
+# Config files with secrets
+config.json
+jike_tokens.json
+weibo_cookies.json
+jike_cookies.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Screenshots (optional - uncomment if you don't want to commit screenshots)
+# *.png
+# *.jpg
+# screenshots/
+
+# Data files (optional - uncomment if data is large or private)
+# weibo_final.json
+# weibo_comments.json
+# jike_posts_full.json
